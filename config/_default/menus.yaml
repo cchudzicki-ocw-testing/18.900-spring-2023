@@ -1,0 +1,62 @@
+leftnav:
+- identifier: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  name: Chapter I. Polygons
+  url: /pages/chapter-i-polygons
+  weight: 10
+- identifier: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
+  name: Chapter II. Billiards
+  url: /pages/chapter-ii-billiards
+  weight: 20
+- identifier: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  name: Chapter III. The Principal Frequency
+  url: /pages/chapter-iii-the-principal-frequency
+  weight: 30
+- identifier: 114106f6-f893-4cce-a997-913596811e8d
+  name: Chapter IV. Loops
+  url: /pages/chapter-iv-loops
+  weight: 40
+- identifier: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  name: Chapter V. Immersed Loops
+  url: /pages/chapter-v-immersed-loops
+  weight: 50
+- identifier: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  name: Chapter VI. Algebraic Curves
+  url: /pages/chapter-vi-algebraic-curves
+  weight: 60
+- identifier: b2dfe80f-0f20-47f0-afee-7495c4268813
+  name: Chapter VII. Two-dimensional Complexes
+  url: /pages/chapter-vii-two-dimensional-complexes
+  weight: 70
+- identifier: c5498f01-2117-4f65-8514-92f324346fab
+  name: Chapter VIII. Hyperbolic Geometry
+  url: /pages/chapter-viii-hyperbolic-geometry
+  weight: 80
+- identifier: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  name: Chapter IX. Curved Geometries
+  url: /pages/chapter-ix-curved-geometries
+  weight: 90
+- identifier: fd1bcf04-1464-4add-9a6c-666ddcf830d5
+  name: 'Lecture 1: Cutting and Pasting Polygons'
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  url: /pages/lecture-1-cutting-and-pasting-polygons
+  weight: 10
+- identifier: e538814a-5061-4c16-96d6-1f6270e8182b
+  name: 'Lecture 2: Integer Polygons'
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  url: /pages/lecture-2-integer-polygons
+  weight: 20
+- identifier: 9ff2bce2-ef48-4fea-ab45-204e477a25b2
+  name: 'Lecture 3: The Shoelace Formula and the Winding Number'
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  url: /pages/lecture-3-the-shoelace-formula-and-the-winding-number
+  weight: 30
+- identifier: 54552bb9-237e-4ac4-bcf2-001610957015
+  name: 'Lecture 4: The Winding Number (continued)'
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  url: /pages/lecture-4-the-winding-number-continued
+  weight: 40
+- identifier: 2e906331-631b-40ce-96f9-139e71ea67ab
+  name: 'Lecture 5: Loops Avoiding Two Points'
+  parent: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
+  url: /pages/lecture-5-loops-avoiding-two-points
+  weight: 50
