@@ -8,11 +8,11 @@ uid: b5cb5b9d-42e4-4ba3-9fde-596607fa8e0b
 ---
 ## Course Meeting Times
 
-Lectures: 3 sessions / week, 2 hours / session
+Lectures: ?? sessions / week, ?? hours / session
 
 ## Prerequisites
 
-Courses in linear algebra (such as [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)) and multivariate calculus (such as [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/))
+18.03 or [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)
 
 ## Course Description
 
