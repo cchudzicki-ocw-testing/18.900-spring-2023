@@ -21,3 +21,17 @@ This course introduces students to selected aspects of geometry and topology, us
 ## Topics
 
 Here are some of the topics covered:
+
+- Polygons
+- Billiards
+- The principal frequency
+- Loops
+- Immersed loops
+- Algebraic curves
+- Two-dimensional complexes
+- Hyperbolic geometry
+- Curved geometries
+
+## Grading
+
+???
