@@ -33,7 +33,8 @@
     "website": "geometry-and-topology-in-the-plane"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Problem Sets"
   ],
   "site_uid": "c764fbdf-42b0-4bdb-8d3b-318e18362a2d",
   "site_short_id": "18.900-spring-2023"
