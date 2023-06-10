@@ -8,9 +8,7 @@ image_metadata:
   caption: The principal mode (lowest eigenfunction of the Laplacian) for an equilateral
     triangle. (Image courtesy of Prof. Paul Seidel.)
   credit: ''
-  image-alt: This is a semiregular tiling of the hyperbolic plane. At each vertex
-    of the tiling there is one triangle and one heptagon, alternating between two
-    squares.
+  image-alt: A combination of multiple equilateral triangles.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
