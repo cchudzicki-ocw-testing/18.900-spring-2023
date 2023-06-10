@@ -5,9 +5,13 @@ draft: false
 file: /courses/18-900-geometry-and-topology-in-the-plane-spring-2023/mit18_900s23_chp.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: ''
+  caption: Rhombitriheptagonal tiling of the hyperbolic plane. (Image courtesy of
+    [Parcly Taxel](https://commons.wikimedia.org/wiki/User:Parcly_Taxel) on [Wikipedia](https://commons.wikimedia.org/wiki/File:Rhombitriheptagonal_tiling.svg).
+    Image in the public domain.)
   credit: ''
-  image-alt: ''
+  image-alt: This is a semiregular tiling of the hyperbolic plane. At each vertex
+    of the tiling there is one triangle and one heptagon, alternating between two
+    squares.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
