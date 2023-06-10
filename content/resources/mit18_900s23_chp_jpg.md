@@ -5,9 +5,8 @@ draft: false
 file: /courses/18-900-geometry-and-topology-in-the-plane-spring-2023/mit18_900s23_chp.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: Rhombitriheptagonal tiling of the hyperbolic plane. (Image courtesy of
-    [Parcly Taxel](https://commons.wikimedia.org/wiki/User:Parcly_Taxel) on [Wikipedia](https://commons.wikimedia.org/wiki/File:Rhombitriheptagonal_tiling.svg).
-    Image in the public domain.)
+  caption: The principal mode (lowest eigenfunction of the Laplacian) for an equilateral
+    triangle. (Image courtesy of Prof. Paul Seidel.)
   credit: ''
   image-alt: This is a semiregular tiling of the hyperbolic plane. At each vertex
     of the tiling there is one triangle and one heptagon, alternating between two
