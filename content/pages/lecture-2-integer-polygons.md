@@ -7,7 +7,7 @@ uid: e538814a-5061-4c16-96d6-1f6270e8182b
 ---
 ## Lecture Notes
 
-{{% resource_link "6781b378-c6c0-4d3c-bc1f-9c09d8642c7b" "Lecture 1: Integer Polygons (PDF)" %}}
+{{% resource_link "6781b378-c6c0-4d3c-bc1f-9c09d8642c7b" "Lecture 2: Integer Polygons (PDF)" %}}
 
 ## Comprehension Questions
 
