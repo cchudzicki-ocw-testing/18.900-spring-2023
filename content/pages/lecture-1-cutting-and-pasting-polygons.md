@@ -12,7 +12,3 @@ uid: fd1bcf04-1464-4add-9a6c-666ddcf830d5
 ## Comprehension Questions
 
 {{% resource_link "f384398c-b25d-4b09-b501-1fe39338883f" "Comprehension Questions about Cutting and Pasting Polygons (PDF)" %}}
-
-## Extra Examples 
-
-## Recitation Videos
