@@ -5,14 +5,14 @@ draft: false
 title: 'Lecture 1: Cutting and Pasting Polygons'
 uid: fd1bcf04-1464-4add-9a6c-666ddcf830d5
 ---
-Lecture Notes 
+## Lecture Notes 
 
-Lecture Videos 
+{{% resource_link "3349d65d-8220-492d-8012-08b6f7dfa1ca" "Lecture 1: Cutting and Pasting Polygons (PDF)" %}}
 
-Basic Review Problems
+## Comprehension Questions
 
-Review Problem Solutions
+{{% resource_link "f384398c-b25d-4b09-b501-1fe39338883f" "Comprehension Questions about Cutting and Pasting Polygons (PDF)" %}}
 
-Extra Examples 
+## Extra Examples 
 
-Recitation Videos
+## Recitation Videos
