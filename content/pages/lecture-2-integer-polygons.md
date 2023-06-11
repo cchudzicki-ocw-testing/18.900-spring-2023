@@ -7,8 +7,8 @@ uid: e538814a-5061-4c16-96d6-1f6270e8182b
 ---
 ## Lecture Notes
 
-Lecture 1: Cutting and Pasting Polygons (PDF)
+{{% resource_link "6781b378-c6c0-4d3c-bc1f-9c09d8642c7b" "Lecture 1: Integer Polygons (PDF)" %}}
 
 ## Comprehension Questions
 
-Comprehension Questions about Cutting and Pasting Polygons (PDF)
+{{% resource_link "f79fb631-8fc9-41a1-a43f-ced7429408a9" "Comprehension Questions about Integer Polygons (PDF)" %}}
