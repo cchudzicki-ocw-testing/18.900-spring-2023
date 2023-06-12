@@ -7,7 +7,7 @@ uid: 6510e10a-7db6-4aef-81b1-656ea5204e32
 ---
 ## Lecture Notes
 
-Lecture 5: Phase Space (PDF)
+Lecture 7: Phase Space (PDF)
 
 ## Comprehension Questions
 
