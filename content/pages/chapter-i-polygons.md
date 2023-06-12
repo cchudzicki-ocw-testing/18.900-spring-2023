@@ -7,7 +7,7 @@ uid: 590a064c-49ef-4bb2-b4ec-ebdd513c62c5
 ---
 {{< resource uuid="b83627ec-5fd2-4797-8691-69c7f63a5c85" >}}
 
-Chapter 1: Bees winding their ways among flowers (winding numbers).
+Chapter 1: Bees winding their ways among flowers (winding numbers). (Image courtesy of Talia Blum. Used with permission.)
 
 My experience is that students initially feel more comfortable with straight lines than curved ones. Therefore, in this chapter and the following two, we talk about polygons and polygonal loops. The starting point is the area of a polygon, a subject which is already interesting from a delightfully elementary kindergarten cut-and-paste perspective. From that, we reach (in a slightly sneaky way) the main notion of the chapter, winding numbers. The last lecture takes a peek at the topology of loops going beyond the winding number (more experienced readers will realize that it discusses conjugacy classes in the free group, without using the words "group" or "conjugacy class").
 
