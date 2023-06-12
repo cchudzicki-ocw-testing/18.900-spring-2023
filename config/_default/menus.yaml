@@ -69,3 +69,13 @@ leftnav:
   parent: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
   url: /pages/lecture-6-introduction-to-billiards
   weight: 10
+- identifier: 6510e10a-7db6-4aef-81b1-656ea5204e32
+  name: 'Lecture 7: Phase Space'
+  parent: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
+  url: /pages/lecture-7-phase-space
+  weight: 20
+- identifier: a58a53d3-b4fa-4e0a-a21a-b31750478eac
+  name: 'Lecture 8: Billiards in Curved Domains'
+  parent: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
+  url: /pages/lecture-8-billiards-in-curved-domains
+  weight: 30
