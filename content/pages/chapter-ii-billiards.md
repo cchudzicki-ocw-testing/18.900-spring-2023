@@ -7,7 +7,7 @@ uid: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
 ---
 {{< resource uuid="17a91811-6d2a-4020-86db-123123c694aa" >}}
 
-Chapter 2: A polygon admiring itself in the mirror (tiling by mirrored copies).
+Chapter 2: A polygon admiring itself in the mirror (tiling by mirrored copies). (Image courtesy of Talia Blum. Used with permission.)
 
 The simple idea of a ball (of size zero) bouncing off the walls of a polygon has given rise to an astonishingly rich mathematical theory, combining geometry and ergodic theory. Here, we stay near the surface of the theory, but that still allows us to explore several important notions. One of these is tiling the plane by reflected copies of a polygon (polygonal tilings are a staple of geometry teaching, but in this course we won’t consider them as a subject in its own right). The second notion is phase space and its area. Switching to that viewpoint can be a bit of a struggle, and our exposition is quite compressed; but the theoretical insight is well worth it (as a symplectic geometer, it’s obvious I would say that). The last lecture considers curved walls, which is the first time we leave polygons behind. I’m not sure I was successful in writing that lecture, but it introduces another important idea (finding trajectories as extrema), and also gives you a reason for remembering what you might have learned in school about plane conics.
 
