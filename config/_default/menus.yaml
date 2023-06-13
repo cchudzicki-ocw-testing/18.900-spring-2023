@@ -94,3 +94,23 @@ leftnav:
   parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
   url: /pages/lecture-11-symmetrization
   weight: 30
+- identifier: 30a5eaa9-7c77-4889-8286-4cc74680c12d
+  name: 'Lecture 12: Smooth Loops'
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  url: /pages/lecture-12-smooth-loops
+  weight: 10
+- identifier: c482290f-0696-4b2b-aa4c-00b3ec3e6e17
+  name: 'Lecture 13: Equations in Two Variables'
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  url: /pages/lecture-13-equations-in-two-variables
+  weight: 20
+- identifier: 8a682357-a0d1-46f2-be5f-c51f20ed0c57
+  name: 'Lecture 14: Complex Polynomials'
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  url: /pages/lecture-14-complex-polynomials
+  weight: 30
+- identifier: a1662883-823a-4a2f-a90a-cc29143e8551
+  name: 'Lecture 15: The Linking Number'
+  parent: 114106f6-f893-4cce-a997-913596811e8d
+  url: /pages/lecture-15-the-linking-number
+  weight: 40
