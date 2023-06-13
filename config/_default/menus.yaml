@@ -79,3 +79,18 @@ leftnav:
   parent: 57f9fb3c-ce5a-4fb3-aa76-455ef6b05523
   url: /pages/lecture-8-billiards-in-curved-domains
   weight: 30
+- identifier: 76c1bc1f-cadc-4975-a1dd-a0ddfc493b9a
+  name: 'Lecture 9: First Computations'
+  parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  url: /pages/lecture-9-first-computations
+  weight: 10
+- identifier: fd08ec8b-77e6-44e0-9765-1a571f4122e9
+  name: 'Lecture 10: An extremal characterization'
+  parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  url: /pages/lecture-10-an-extremal-characterization
+  weight: 20
+- identifier: 29386530-1fd0-4289-88d9-e54ae89c39cf
+  name: 'Lecture 11: Symmetrization'
+  parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
+  url: /pages/lecture-11-symmetrization
+  weight: 30
