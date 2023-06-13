@@ -204,3 +204,38 @@ leftnav:
   parent: b2dfe80f-0f20-47f0-afee-7495c4268813
   url: /pages/lecture-33-combinatorial-winding-numbers-and-the-boundary-operators
   weight: 60
+- identifier: 8d46281e-cb95-468e-ab99-5f8c7305a341
+  name: 'Lecture 34: The Hyperbolic Plane'
+  parent: c5498f01-2117-4f65-8514-92f324346fab
+  url: /pages/lecture-34-the-hyperbolic-plane
+  weight: 10
+- identifier: 1274bc17-bb53-49df-b695-87c96cf7c73f
+  name: 'Lecture 35: Arclengths and Areas'
+  parent: c5498f01-2117-4f65-8514-92f324346fab
+  url: /pages/lecture-35-arclengths-and-areas
+  weight: 20
+- identifier: d45806bd-f3f8-4f3b-bb3f-966584dd40b9
+  name: 'Lecture 36: Hyperbolic Isometries'
+  parent: c5498f01-2117-4f65-8514-92f324346fab
+  url: /pages/lecture-36-hyperbolic-isometries
+  weight: 30
+- identifier: 322332ad-7577-4606-99d1-c4c01307d836
+  name: 'Lecture 37: The Geodesic Equation'
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  url: /pages/lecture-37-the-geodesic-equation
+  weight: 10
+- identifier: 7540d1a0-60f3-4362-8059-8777b979fe37
+  name: 'Lecture 38: Behaviour(s) of Geodesics'
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  url: /pages/lecture-38-behaviours-of-geodesics
+  weight: 20
+- identifier: c13650a7-f834-40dc-8b11-0b53e8e97b13
+  name: 'Lecture 39: Curvature'
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  url: /pages/lecture-39-curvature
+  weight: 30
+- identifier: e05a87c0-4d65-402f-a43e-32b28356b6d2
+  name: 'Lecture 40: Geometry of Combinatorial Surfaces'
+  parent: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
+  url: /pages/lecture-40-geometry-of-combinatorial-surfaces
+  weight: 40
