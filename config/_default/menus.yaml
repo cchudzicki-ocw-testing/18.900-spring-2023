@@ -174,3 +174,33 @@ leftnav:
   parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
   url: /pages/lecture-27-algebraic-curves-in-the-projective-plane
   weight: 90
+- identifier: b69fddf8-109a-48b0-bdaa-40691bb01fbe
+  name: 'Lecture 28: Delaunay Triangulations'
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  url: /pages/lecture-28-delaunay-triangulations
+  weight: 10
+- identifier: 7da4f2a5-a59e-4c2e-ba76-8f5c68dbb11f
+  name: 'Lecture 29: Betti Numbers'
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  url: /pages/lecture-29-betti-numbers
+  weight: 20
+- identifier: 91263968-0235-4526-b171-b851c85b8498
+  name: 'Lecture 30: Betti Numbers (continued)'
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  url: /pages/lecture-30-betti-numbers-continued
+  weight: 30
+- identifier: a385ac2b-ab3b-4a3b-b9f0-9501714ba583
+  name: 'Lecture 31: Surfaces'
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  url: /pages/lecture-31-surfaces
+  weight: 40
+- identifier: b28033bd-3a90-4821-ac20-b25a174633ac
+  name: 'Lecture 32: Combinatorial Loops'
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  url: /pages/lecture-32-combinatorial-loops
+  weight: 50
+- identifier: 6af9879e-ba5b-43f6-b402-b2b89b6ae5b5
+  name: 'Lecture 33: Combinatorial Winding Numbers and the Boundary Operators'
+  parent: b2dfe80f-0f20-47f0-afee-7495c4268813
+  url: /pages/lecture-33-combinatorial-winding-numbers-and-the-boundary-operators
+  weight: 60
