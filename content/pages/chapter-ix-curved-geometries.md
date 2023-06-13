@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: Chapter IX. Curved Geometries
+description: Chapter IX lecture notes and comprehension questions
 draft: false
 title: Chapter IX. Curved Geometries
 uid: 19549f51-d92d-4f43-8e6c-aa3cc67ecc35
