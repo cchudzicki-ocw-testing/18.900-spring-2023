@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: Chapter VII. Two-dimensional Complexes
+description: Chapter VII lecture notes and comprehension questions
 draft: false
 title: Chapter VII. Two-dimensional Complexes
 uid: b2dfe80f-0f20-47f0-afee-7495c4268813
@@ -15,4 +15,4 @@ Midway through the chapter, we start reaching back to some of the earlier materi
 
 In preparing Lecture 28, I have used *S.-W. Cheng, T. Dey, J. Shewchuk, Delaunay mesh generation, CRC Press, 2013*, as a reference for Delaunay triangulations. I apologize to all computational geometers for the amateurish notion of “shape complex”, which was vaguely inspired by Edelsbrunners’ alpha-complex; see *H. Edelsbrunner, A short course in computational geometry and topology, Springer, 2014*. Similarly, Lecture 30 is a caricature of *G. Carlsson, T. Ishkanov, V. de Silva, A. Zomorodian, On the local behavior of spaces of natural images, Intern. J. of Computer Vision 76 (2008), 1-12*. The proof of the evenness of Euler characteristic of an orientable surface was contributed by the sages of the internet: [https://mathoverflow.net/questions/310335/closed-orientable-surfaces-have-even-Euler-characteristic](https://mathoverflow.net/questions/310335/closed-orientable-surfaces-have-even-Euler-characteristic).
 
-It’s the kind of “how does one come up with that” argument that I usually avoid, but this one was to pretty to skip.
+It’s the kind of “how does one come up with that” argument that I usually avoid, but this one was too pretty to skip.
