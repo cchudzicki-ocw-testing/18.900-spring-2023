@@ -5,3 +5,10 @@ draft: false
 title: 'Lecture 18: Arnold Invariants (continued)'
 uid: d38331c8-4bd0-46d5-87c6-84dcdc50a5be
 ---
+## Lecture Notes
+
+{{% resource_link "8c942d54-c3c2-4edf-ba7e-9c6d642e59b2" "Lecture 18: Arnold Invariants (continued) (PDF)" %}}
+
+## Comprehension Questions
+
+Comprehension Questions about Arnold Invariants (continued) (PDF)
