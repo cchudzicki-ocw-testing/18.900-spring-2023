@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: 'Lecture 6: Introduction to Billiards'
+description: 'Lecture 6: lecture notes and comprehension questions'
 draft: false
 title: 'Lecture 6: Introduction to Billiards'
 uid: bf5f8221-2183-470d-96bd-d6792cbe6041
