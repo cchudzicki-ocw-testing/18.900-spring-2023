@@ -114,3 +114,18 @@ leftnav:
   parent: 114106f6-f893-4cce-a997-913596811e8d
   url: /pages/lecture-15-the-linking-number
   weight: 40
+- identifier: 9cd8c981-5b70-4c84-a0a2-e37aa683cdbe
+  name: 'Lecture 16: Immersed Loops and the Rotation Number'
+  parent: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  url: /pages/lecture-16-immersed-loops-and-the-rotation-number
+  weight: 10
+- identifier: 22821b96-194d-4efb-9001-a6022c5b9f14
+  name: 'Lecture 17: Arnold Invariants'
+  parent: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  url: /pages/lecture-17-arnold-invariants
+  weight: 20
+- identifier: d38331c8-4bd0-46d5-87c6-84dcdc50a5be
+  name: 'Lecture 18: Arnold Invariants (continued)'
+  parent: 482ddacc-7c88-4642-bdbb-327ee427ae02
+  url: /pages/lecture-18-arnold-invariants-continued
+  weight: 30
