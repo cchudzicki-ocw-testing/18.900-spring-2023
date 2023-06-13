@@ -16,3 +16,15 @@ Midway through the chapter, we start reaching back to some of the earlier materi
 In preparing Lecture 28, I have used *S.-W. Cheng, T. Dey, J. Shewchuk, Delaunay mesh generation, CRC Press, 2013*, as a reference for Delaunay triangulations. I apologize to all computational geometers for the amateurish notion of “shape complex”, which was vaguely inspired by Edelsbrunners’ alpha-complex; see *H. Edelsbrunner, A short course in computational geometry and topology, Springer, 2014*. Similarly, Lecture 30 is a caricature of *G. Carlsson, T. Ishkanov, V. de Silva, A. Zomorodian, On the local behavior of spaces of natural images, Intern. J. of Computer Vision 76 (2008), 1-12*. The proof of the evenness of Euler characteristic of an orientable surface was contributed by the sages of the internet: [https://mathoverflow.net/questions/310335/closed-orientable-surfaces-have-even-Euler-characteristic](https://mathoverflow.net/questions/310335/closed-orientable-surfaces-have-even-Euler-characteristic).
 
 It’s the kind of “how does one come up with that” argument that I usually avoid, but this one was too pretty to skip.
+
+{{% resource_link "b69fddf8-109a-48b0-bdaa-40691bb01fbe" "Lecture 28: Delaunay Triangulations" %}}
+
+{{% resource_link "7da4f2a5-a59e-4c2e-ba76-8f5c68dbb11f" "Lecture 29: Betti Numbers" %}}
+
+{{% resource_link "91263968-0235-4526-b171-b851c85b8498" "Lecture 30: Betti Numbers (continued)" %}}
+
+{{% resource_link "a385ac2b-ab3b-4a3b-b9f0-9501714ba583" "Lecture 31: Surfaces" %}}
+
+{{% resource_link "b28033bd-3a90-4821-ac20-b25a174633ac" "Lecture 32: Combinatorial Loops" %}}
+
+{{% resource_link "6af9879e-ba5b-43f6-b402-b2b89b6ae5b5" "Lecture 33: Combinatorial Winding Numbers and the Boundary Operators" %}}
