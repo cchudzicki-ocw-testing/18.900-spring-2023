@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: Chapter VIII. Hyperbolic Geometry
+description: Chapter VIII lecture notes and comprehension questions
 draft: false
 title: Chapter VIII. Hyperbolic Geometry
 uid: c5498f01-2117-4f65-8514-92f324346fab
