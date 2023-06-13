@@ -129,3 +129,48 @@ leftnav:
   parent: 482ddacc-7c88-4642-bdbb-327ee427ae02
   url: /pages/lecture-18-arnold-invariants-continued
   weight: 30
+- identifier: 81eb4e51-a2c9-4fe5-8752-6c50e7f4d421
+  name: 'Lecture 19: Introduction to Algebraic Curves'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-19-introduction-to-algebraic-curves
+  weight: 10
+- identifier: deb38ac2-c268-4c06-9308-45b09ba1c876
+  name: 'Lecture 20: Mechanical Linkages and Polynomial Equations'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-20-mechanical-linkages-and-polynomial-equations
+  weight: 20
+- identifier: 159792e7-f705-4094-9e51-193a4320c5d2
+  name: 'Lecture 21: Intersections of Algebraic Curves'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-21-intersections-of-algebraic-curves
+  weight: 30
+- identifier: f678c09e-7f63-4d0b-8fb1-d18fb07ee6ff
+  name: 'Lecture 22: Nonsingular Curves'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-22-nonsingular-curves
+  weight: 40
+- identifier: 171a4de9-700c-4ed5-845f-7bd97143cd15
+  name: 'Lecture 23: Singular Points'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-23-singular-points
+  weight: 50
+- identifier: f3d336db-3e47-4fbd-8241-f80fc2f120d3
+  name: 'Lecture 24: Patchworking'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-24-patchworking
+  weight: 60
+- identifier: 0d1569de-b834-4a64-8225-2727c85aad2f
+  name: 'Lecture 25: Tropical Geometry'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-25-tropical-geometry
+  weight: 70
+- identifier: 2687c026-7d0b-40b0-b82a-d8dca4282faa
+  name: 'Lecture 26: Projective Geometry'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-26-projective-geometry
+  weight: 80
+- identifier: 08dc5caf-5c5a-4863-935f-1b28c55d47f9
+  name: 'Lecture 27: Algebraic Curves in the Projective Plane'
+  parent: 89e0caae-65e7-4873-a9ae-ae9853a5690c
+  url: /pages/lecture-27-algebraic-curves-in-the-projective-plane
+  weight: 90
