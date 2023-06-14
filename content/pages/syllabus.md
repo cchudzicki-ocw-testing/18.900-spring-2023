@@ -34,4 +34,4 @@ Here are some of the topics covered:
 
 ## Grading
 
-???
+Short homework 30%, long homework 30%, midterm exams 40% (10% each). There will be no rounding, dropping worst score, “curving”, or other statistical manipulations.
