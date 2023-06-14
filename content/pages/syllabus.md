@@ -20,7 +20,7 @@ This course introduces students to selected aspects of geometry and topology, us
 
 ## Lectures
 
-Each lecture is designed for 50 minutes. With three sessions per week, there is a little more material here than fits into a semester. The Spring 2023 version omitted Lectures 20, 24-25, 38, and 40 (earlier versions of the class have omitted Chapter III; generally, the course setup is pretty modular, for instance one could skip Lectures 8 or 15 or 17-18 without any adverse effects elsewhere).
+Each lecture is designed for 50 minutes. With three sessions per week, there is a little more material here than fits into a semester. The Spring 2023 version omitted Lectures 20, 24–25, 38, and 40 (earlier versions of the class have omitted Chapter III; generally, the course setup is pretty modular, for instance one could skip Lectures 8 or 15 or 17–18 without any adverse effects elsewhere).
 
 ## Topics
 
