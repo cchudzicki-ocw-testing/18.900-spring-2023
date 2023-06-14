@@ -6,7 +6,7 @@ file: /courses/18-900-geometry-and-topology-in-the-plane-spring-2023/mit18_900s2
 file_type: image/jpeg
 image_metadata:
   caption: The principal mode (lowest eigenfunction of the Laplacian) for an equilateral
-    triangle. (Image courtesy of Prof. Paul Seidel.)
+    triangle. (Image courtesy of Paul Seidel.)
   credit: ''
   image-alt: A combination of multiple equilateral triangles.
 learning_resource_types: []
