@@ -8,7 +8,7 @@ uid: b5cb5b9d-42e4-4ba3-9fde-596607fa8e0b
 ---
 ## Course Meeting Times
 
-Lectures: 3 sessions / week, 1 hour / session
+Lectures: 3 sessions / week, 50 minutes / session
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ In MIT terms, the prerequisites are [*18.03 Differential Equations*](https://ocw
 
 This course introduces students to selected aspects of geometry and topology, using concepts that can be visualized easily. We mix geometric topics (such as hyperbolic geometry or billiards) and more topological ones (such as loops in the plane). The course is suitable for students with no prior exposure to differential geometry or topology. Think of it as a moderate hike, overlooking various parts of the geometry and topology landscape. Bits are flat, bits are uphill, there are occasional rocky parts (may be different for everyone), but none that are designed to be cliff faces. The class moves from one topic to the next quickly, so it’s important to learn continuously.
 
-## Lectures 
+## Lectures
 
 Each lecture is designed for 50 minutes. With three sessions per week, there is a little more material here than fits into a semester. The Spring 2023 version omitted Lectures 20, 24-25, 38, and 40 (earlier versions of the class have omitted Chapter III; generally, the course setup is pretty modular, for instance one could skip Lectures 8 or 15 or 17-18 without any adverse effects elsewhere).
 
