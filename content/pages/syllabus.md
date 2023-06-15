@@ -12,7 +12,7 @@ Lectures: 3 sessions / week, 50 minutes / session
 
 ## Prerequisites
 
-In MIT terms, the prerequisites are [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) or [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)*.* Linear algebra figures briefly in Chapter III, and then plays a more substantial role in Chapter VII. Differential equations (well, one of them) play an important role in Chapter IX. Complex numbers are important in Lecture 14 and in Chapter VIII. An a more basic level, students are expected to be familiar with multivariable calculus.
+In MIT terms, the prerequisites are [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/) or [*18.06 Linear Algebra*](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/)*.* Linear algebra figures briefly in Chapter III, and then plays a more substantial role in Chapter VII. Differential equations (well, one of them) play an important role in Chapter IX. Complex numbers are important in Lecture 14 and in Chapter VIII. On a more basic level, students are expected to be familiar with [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/).
 
 ## Course Description
 
@@ -26,16 +26,16 @@ Each lecture is designed for 50 minutes. With three sessions per week, there is 
 
 Here’s a brief summary of each chapter:
 
-- Polygons and their areas, Pick’s theorem, winding numbers.
-- Billiards in polygons, phase space, Liouville’s theorem.
-- Eigenfrequencies of the Laplace operators on domains, especially the lowest one.
-- Differentiable loops, their winding number in the plane, application to solving systems of equations.
-- Immersed loops, the rotation number, and Arnol’d invariants.
-- Algebraic curves. The theorems of Bezout and Harnack. Nodal singularities. The construction of algebraic curves via patchworking and tropical geometry. Projective geometry.
-- Triangulations and two-dimensional complexes. Betti numbers. Combinatorial surfaces. Combinatorial loops.
-- Hyperbolic geometry. Lengths and areas in the hyperbolic plane. The Gauss-Bonnet theorem.
-- Curved geometries. The definition of geodesics and their behavior. Curvature and the general Gauss-Bonnet theorem. Curvature for combinatorial surfaces.
+- Polygons and their areas, Pick’s theorem, winding numbers
+- Billiards in polygons, phase space, Liouville’s theorem
+- Eigenfrequencies of the Laplace operators on domains, especially the lowest one
+- Differentiable loops, their winding number in the plane, application to solving systems of equations
+- Immersed loops, the rotation number, and Arnol’d invariants
+- Algebraic curves, the theorems of Bezout and Harnack, Nodal singularities, the construction of algebraic curves via patchworking and tropical geometry, projective geometry
+- Triangulations and two-dimensional complexes, Betti numbers, combinatorial surfaces, combinatorial loops
+- Hyperbolic geometry, lengths and areas in the hyperbolic plane, the Gauss-Bonnet theorem
+- Curved geometries, the definition of geodesics and their behavior, curvature and the general Gauss-Bonnet theorem, curvature for combinatorial surfaces
 
 ## Homework/Exams/Grading
 
-As taught in Spring 2023, the class was assessed by a mixture of comprehension questions (30%), more challenging problem sets (30%), and exams (40%). The comprehension questions are part of this OCW site. They are intended to ensure that there’s been no misunderstanding of the basic concepts and computational methods taught in the class.
+As taught in Spring 2023, the class was assessed by a mixture of comprehension questions (30%), more challenging problem sets (30%), and exams (40%). The comprehension questions are part of this OCW site. \[Problem sets and exams are not available to OCW users.\] They are intended to ensure that there’s been no misunderstanding of the basic concepts and computational methods taught in the class.
