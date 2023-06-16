@@ -11,4 +11,4 @@ uid: 9ff2bce2-ef48-4fea-ab45-204e477a25b2
 
 ## Comprehension Questions
 
-{{% resource_link "4a679abb-a51c-496b-bbb0-a0937c56987c" "Comprehension Questions about The Shoelace Formula and the Winding Number (PDF)" %}}
+{{% resource_link "4a679abb-a51c-496b-bbb0-a0937c56987c" "Comprehension Questions about the Shoelace Formula and the Winding Number (PDF)" %}}
