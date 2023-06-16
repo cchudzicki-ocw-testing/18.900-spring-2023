@@ -30,7 +30,7 @@ Here’s a brief summary of each chapter:
 - Billiards in polygons, phase space, Liouville’s theorem
 - Eigenfrequencies of the Laplace operators on domains, especially the lowest one
 - Differentiable loops, their winding number in the plane, application to solving systems of equations
-- Immersed loops, the rotation number, and Arnol’d invariants
+- Immersed loops, the rotation number, and Arnold invariants
 - Algebraic curves, the theorems of Bezout and Harnack, nodal singularities, the construction of algebraic curves via patchworking and tropical geometry, projective geometry
 - Triangulations and two-dimensional complexes, Betti numbers, combinatorial surfaces, combinatorial loops
 - Hyperbolic geometry, lengths and areas in the hyperbolic plane, the Gauss-Bonnet theorem
