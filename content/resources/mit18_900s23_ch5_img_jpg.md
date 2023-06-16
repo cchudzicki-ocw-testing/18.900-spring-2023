@@ -7,7 +7,7 @@ file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: A fish jumping out of the fish tank and two fish are still in the tank.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
