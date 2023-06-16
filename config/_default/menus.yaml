@@ -85,7 +85,7 @@ leftnav:
   url: /pages/lecture-9-first-computations
   weight: 10
 - identifier: fd08ec8b-77e6-44e0-9765-1a571f4122e9
-  name: 'Lecture 10: An extremal characterization'
+  name: 'Lecture 10: An Extremal Characterization'
   parent: 854e4942-168e-4dce-a9b8-304fa74c68e6
   url: /pages/lecture-10-an-extremal-characterization
   weight: 20
