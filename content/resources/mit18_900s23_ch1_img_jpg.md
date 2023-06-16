@@ -7,7 +7,7 @@ file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: ''
+  image-alt: Two bees winding their ways among 2 flowers surrounded by red polygons.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
